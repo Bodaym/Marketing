@@ -1,0 +1,34 @@
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.deps.json
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.runtimeconfig.json
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.dll
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.pdb
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.Entities.dll
+G:\myshop.Web\myshop.Web\myshop.DataAccess\bin\Debug\net9.0\myshop.Entities.pdb
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.csproj.AssemblyReference.cache
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.AssemblyInfoInputs.cache
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.AssemblyInfo.cs
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.D.0D8314D7.Up2Date
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.dll
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\refint\myshop.DataAccess.dll
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.pdb
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.genruntimeconfig.cache
+G:\myshop.Web\myshop.Web\myshop.DataAccess\obj\Debug\net9.0\ref\myshop.DataAccess.dll
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.deps.json
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.runtimeconfig.json
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.dll
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.DataAccess.pdb
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.Entities.dll
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\bin\Debug\net9.0\myshop.Entities.pdb
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.csproj.AssemblyReference.cache
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.AssemblyInfoInputs.cache
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.AssemblyInfo.cs
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.D.0D8314D7.Up2Date
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.dll
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\refint\myshop.DataAccess.dll
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.pdb
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\myshop.DataAccess.genruntimeconfig.cache
+G:\Smart Matketing\Smart Marketing\myshop.DataAccess\obj\Debug\net9.0\ref\myshop.DataAccess.dll
