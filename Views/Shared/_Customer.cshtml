@@ -1,0 +1,90 @@
+﻿@using Microsoft.AspNetCore.Http
+@using myshop.Utilities
+@inject IHttpContextAccessor httpContextAccessor
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+    <title>Smart Marketing | Home</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Bootstrap icons-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css" rel="stylesheet" />
+    <!-- Custom styles -->
+    <link href="~/customer/css/styles.css" rel="stylesheet" />
+</head>
+<body class="bg-light">
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-secondary shadow-sm">
+        <div class="container">
+            <a class="navbar-brand fw-bold" href="/">Smart Marketing</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item"><a class="nav-link active border-bottom" href="/Customer/Home/Index">Home</a></li>
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        @if (User.IsInRole(SD.AdminRole))
+                        {
+                            <li class="nav-item"><a class="nav-link" href="/Admin/Dashboard/Index">Dashboard</a></li>
+                        }
+                        else
+                        {
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">My Account</a>
+                                <ul class="dropdown-menu">
+                                    <li><a class="dropdown-item" href="#">My Orders</a></li>
+                                    <li><hr class="dropdown-divider" /></li>
+                                    <li><a class="dropdown-item" href="/Identity/Account/Manage">Edit Profile</a></li>
+                                </ul>
+                            </li>
+                        }
+                    }
+                </ul>
+                <partial name="_LoginPartial" />
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <a href="/Customer/Cart/Index" class="btn btn-outline-light position-relative ms-3">
+                        <i class="bi-cart-fill"></i> Cart
+                        @await Component.InvokeAsync("ShoppingCart")
+                        <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">
+                            @(httpContextAccessor.HttpContext.Session.GetInt32(SD.SessionKey) ?? 0)
+                        </span>
+                    </a>
+                }
+            </div>
+        </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="bg-dark text-white py-5">
+        <div class="container text-center">
+            <h1 class="display-4 fw-bold border-bottom">Best products</h1>
+            <p class="lead">Find Amazing Products at Great Prices</p>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container py-4">
+        @RenderBody()
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-secondary text-white text-center py-4 mt-5">
+        <div class="container">
+            <p class="mb-0">&copy; @DateTime.Now.Year myShop. All Rights Reserved.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/customer/js/scripts.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
