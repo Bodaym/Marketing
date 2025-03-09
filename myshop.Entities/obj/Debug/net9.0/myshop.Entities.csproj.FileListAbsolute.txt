@@ -1,0 +1,24 @@
+G:\myshop.Web\myshop.Web\myshop.Entities\bin\Debug\net9.0\myshop.Entities.deps.json
+G:\myshop.Web\myshop.Web\myshop.Entities\bin\Debug\net9.0\myshop.Entities.dll
+G:\myshop.Web\myshop.Web\myshop.Entities\bin\Debug\net9.0\myshop.Entities.pdb
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.csproj.AssemblyReference.cache
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.AssemblyInfoInputs.cache
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.AssemblyInfo.cs
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.csproj.CoreCompileInputs.cache
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.dll
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\refint\myshop.Entities.dll
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\myshop.Entities.pdb
+G:\myshop.Web\myshop.Web\myshop.Entities\obj\Debug\net9.0\ref\myshop.Entities.dll
+G:\Smart Matketing\Smart Marketing\myshop.Entities\bin\Debug\net9.0\myshop.Entities.deps.json
+G:\Smart Matketing\Smart Marketing\myshop.Entities\bin\Debug\net9.0\myshop.Entities.dll
+G:\Smart Matketing\Smart Marketing\myshop.Entities\bin\Debug\net9.0\myshop.Entities.pdb
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.csproj.AssemblyReference.cache
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.AssemblyInfoInputs.cache
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.AssemblyInfo.cs
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.csproj.CoreCompileInputs.cache
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.dll
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\refint\myshop.Entities.dll
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\myshop.Entities.pdb
+G:\Smart Matketing\Smart Marketing\myshop.Entities\obj\Debug\net9.0\ref\myshop.Entities.dll
